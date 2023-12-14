@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://reactive-resoults-summary-component.vercel.app)
+- Live Site URL: [reactive-resoults-summary-component.vercel.app](https://reactive-resoults-summary-component.vercel.app)
 
 ## My process
 
